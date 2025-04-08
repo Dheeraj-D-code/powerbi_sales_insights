@@ -57,5 +57,5 @@ Thank you for contributing
 ---
 
 ## Author  
-**Dheeraj Singh Bora**  
+Dheeraj Singh Bora
 ---
