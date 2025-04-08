@@ -1,7 +1,3 @@
-Got it! Here's the corrected README file with that adjustment:
-
----
-
 # Sales Insights Dashboard  
 
 ## Description  
